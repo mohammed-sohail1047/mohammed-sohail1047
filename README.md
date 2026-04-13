@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 💻 Python Full Stack Developer with 1.5+ years of experience  
+- 💻 Python Full Stack Developer with 1.4+ years of experience  
 - ⚙️ Focused on building scalable backend systems using Django & DRF  
 - 🔐 Experienced in JWT Authentication & Role-Based Access Control  
 - 📊 Passionate about optimizing performance and writing clean code  
@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 **Backend:**
-- Python | Django | Django REST Framework (DRF)
+- Python | Django | Django REST Framework (DRF) | REST APIs |
 
 **Frontend:**
 - HTML | CSS | JavaScript | Bootstrap | React (Basics)
@@ -53,7 +53,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-dev-sohail/ 
 - 📧 Email: sohail.mohammeddev@gmail.com  
 
 ---
