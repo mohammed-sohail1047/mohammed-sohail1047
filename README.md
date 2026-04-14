@@ -97,7 +97,7 @@
 ## 🤝 Connect with Me
 
 - 📧 Email: sohail.mohammeddev@gmail.com
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-dev-sohail/)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-dev-sohail/) 
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedsohail-1047/) 
 
 ---
